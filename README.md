@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haruki</h1>
 <h3 align="center">i love to code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sombokmeas168&label=Profile%20views&color=0e75b6&style=flat" alt="sombokmeas168" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=airiharuki&label=Profile%20views&color=0e75b6&style=flat" alt="airiharuki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sombokmeas168" alt="sombokmeas168" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airiharuki" alt="airiharuki" /></a> </p>
 
 - 🔭 I’m currently working on **Windows activator**
 
@@ -13,21 +13,21 @@
 
 - 🤝 I’m looking for help with **windows scripts**
 
-- 👨‍💻 All of my projects are available at [github.com/sombokmeas168](github.com/sombokmeas168)
+- 👨‍💻 All of my projects are available at [github.com/airiharuki](github.com/airiharuki)
 
-- 📝 I regularly write articles on [github.com/sombokmeas168](github.com/sombokmeas168)
+- 📝 I regularly write articles on [github.com/airiharuki](github.com/airiharuki)
 
 - 💬 Ask me about **ps scripts and bash**
 
 - 📫 How to reach me **( None i have none )**
 
-- 📄 Know about my experiences [github.com/sombokmeas168](github.com/sombokmeas168)
+- 📄 Know about my experiences [github.com/airiharuki](github.com/airiharuki)
 
 - ⚡ Fun fact **i think im sigma and my kids love me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sombokmeas168.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sombokmeas168.dev" height="30" width="40" /></a>
+<a href="https://dev.to/airiharuki.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="airiharuki.dev" height="30" width="40" /></a>
 <a href="https://fb.com/sombokmeas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sombokmeas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sombokmeas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sombokmeas" height="30" width="40" /></a>
 </p>
@@ -38,9 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sombokmeas169"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sombokmeas169" /></a><a href="https://ko-fi.com/sombokmeas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sombokmeas" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sombokmeas168&show_icons=true&locale=en&layout=compact" alt="sombokmeas168" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=airiharuki&show_icons=true&locale=en&layout=compact" alt="airiharuki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sombokmeas168&show_icons=true&locale=en" alt="sombokmeas168" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airiharuki&show_icons=true&locale=en" alt="airiharuki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sombokmeas168&" alt="sombokmeas168" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airiharuki&" alt="airiharuki" /></p>
 
