@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airiharuki" alt="airiharuki" /></a> </p>
 
-- 🔭 I’m currently working on **Windows activator**
+- 🔭 I’m currently working on **Windows Activator**
 
-- 🌱 I’m currently learning **powershell, python**
+- 🌱 I’m currently learning **Python, Assembly & C++**
 
 - 👯 I’m looking to collaborate on **MIDI Device Revision**
 
@@ -17,11 +17,7 @@
 
 - 📝 I regularly write articles on [github.com/airiharuki](github.com/airiharuki)
 
-- 💬 Ask me about **ps scripts and bash**
-
 - 📄 Know about my experiences [github.com/airiharuki](github.com/airiharuki)
-
-- ⚡ Fun fact **i think im sigma and my kids love me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
